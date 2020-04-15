@@ -8,13 +8,13 @@
 > Observação: É possível utilizar os gerenciadores de pacote NPM ou Yarn para rodar os comandos abaixo:
 
 <h3>BACK-END</h3>
-Execute o comando > ```npm install``` < nas pastas backend, frontend e mobile, para instalar as dependências.
+Execute o comando ```npm install``` nas pastas backend, frontend e mobile, para instalar as dependências.
 
 <h3>FRONT-END</h3>
-Execute o comando > ```npm start``` < nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
+Execute o comando ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
 
 <h3>MOBILE</h3>
-Execute o comando > ```npm start``` < na pasta do backend e utilizando o expo no celular, rode ```expo start``` na pasta do mobile para abrir o expo no computador e poder escanear o QR Code da aplicação. 
+Execute o comando ```npm start``` na pasta do backend e utilizando o expo no celular, rode ```expo start``` na pasta do mobile para abrir o expo no computador e poder escanear o QR Code da aplicação. 
 
 
 ## Telas
