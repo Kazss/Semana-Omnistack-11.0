@@ -1,5 +1,6 @@
 <h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar </h2>
-<h3 align="center"> Criada com a stack React, Ract Native, Node e SQLite </h3>
+<h3 align="center"> Criada com a stack React, React Native, Node e SQLite </h3>
+
 ---
 
 ## Para rodar a aplicação
@@ -21,7 +22,7 @@ Execute o comando > ```npm start``` < na pasta do backend e utilizando o expo no
 <p align="center">
 
     <h3 align="center"> Front-end Login </h3>
-    <img alt="" title="" src="https://imgur.com/WA6kH4J">
+    ![alt text](https://imgur.com/WA6kH4J "Front-end Login")
     <h3 align="center"> Front-end Signup </h3>
     <img alt="" title="" src="https://imgur.com/DstEMtE">
     <h3 align="center"> Front-end Incidents </h3>
