@@ -1,37 +1,39 @@
-<h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar </h2>
-<h3 align="center"> Criada com a stack React, React Native, Node e SQLite </h3>
+<h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que podem ajudar </h2>
+<h3 align="center"> Criada com React, React Native, Node e SQLite </h3>
 
 ---
 
 ## Para rodar a aplicação
 
-> OBS: É possível utilizar os gerencidores de pacote NPM ou Yarn para rodar os comandos abaixo:
+> Observação: É possível utilizar os gerenciadores de pacote NPM ou Yarn para rodar os comandos abaixo:
 
-<h3>back-end</h3>
+<h3>BACK-END</h3>
 Execute o comando > ```npm install``` < nas pastas backend, frontend e mobile, para instalar as dependências.
 
-<h3>Front-end</h3>
+<h3>FRONT-END</h3>
 Execute o comando > ```npm start``` < nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
 
-<h3>Mobile</h3>
+<h3>MOBILE</h3>
 Execute o comando > ```npm start``` < na pasta do backend e utilizando o expo no celular, rode ```expo start``` na pasta do mobile para abrir o expo no computador e poder escanear o QR Code da aplicação. 
 
 
 ## Telas
 
 <p align="center">
-
-    <h3 align="center"> Front-end Login </h3>
-    ![alt text](https://imgur.com/WA6kH4J "Front-end Login")
-    <h3 align="center"> Front-end Signup </h3>
-    <img alt="" title="" src="https://imgur.com/DstEMtE">
-    <h3 align="center"> Front-end Incidents </h3>
-    <img alt="" title="" src="https://imgur.com/Eh7xBKr">
-    <h3 align="center"> Front-end New Incident </h3>
-    <img alt="" title="" src="https://imgur.com/WAqogt3">
-    <h3 align="center"> Mobile Splash </h3>
-    <img alt="" title="" src="https://imgur.com/tjOB7tt">
-    <h3 align="center"> Mobile Incidents </h3>
-    <img alt="" title="" src="https://imgur.com/EzV5Zi2">
+    <h3 align="center"> FRONT-END LOGIN </h3>
+    <img alt="" title="" src="images/front-end-login.png">
+    <h3 align="center"> FRONT-END CADASTRO </h3>
+    <img alt="" title="" src="images/front-end-signup.png">
+    <h3 align="center"> FRONT-END PERFIL DA ONG </h3>
+    <img alt="" title="" src="images/front-end-profile.png">
+    <h3 align="center"> FRONT-END CADASTRO DE NOVO CASO </h3>
+    <img alt="" title="" src="images/front-end-newincident.png">
+    <h3 align="center"> MOBILE SPLASH ART </h3>
+    <img alt="" title="" src="images/mobile-splashart.jpg">
+    <h3 align="center"> MOBILE CASOS </h3>
+    <img alt="" title="" src="images/mobile-incidents.jpg">
+    <h3 align="center"> MOBILE DETALHE DO CASO </h3>
+    <img alt="" title="" src="images/mobile-incidents2.jpg">
+    <h3 align="center"> MOBILE CONTATO VIA E-MAIL </h3>
+    <img alt="" title="" src="images/mobile-contact-email.jpg">
 </p>
----
